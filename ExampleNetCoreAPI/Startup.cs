@@ -38,7 +38,7 @@ namespace ExampleNetCoreAPI
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "MNG .NET Core Web API",
+                    Title = "Example .NET Core Web API",
                     Description = "",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
